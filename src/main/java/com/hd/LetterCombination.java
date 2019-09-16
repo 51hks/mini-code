@@ -5,7 +5,7 @@ import java.util.List;
 
 public class LetterCombination {
 
-    protected static char[][] LETTER_ARR = new char[][]{{}, {}
+    private static char[][] LETTER_ARR = new char[][]{{}, {}
             , {'a', 'b', 'c'}
             , {'d', 'e', 'f'}
             , {'g', 'h', 'i'}
